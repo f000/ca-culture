@@ -1,2 +1,3 @@
-# culture
-A place to hold stuff about us
+# ca-culture
+
+Configuration for various linting tools
