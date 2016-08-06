@@ -9,7 +9,11 @@
     "type": "git",
     "url": "git+https://github.com/f000/ca-culture.git"
   },
-  "author": "",
+  "author": {
+    "name" : "Lukas Vorlicek",
+    "email" : "lukas.vorlicek@codeart.cz",
+    "url" : "http://www.codeart.cz/"
+  },
   "license": "Unlicense",
   "bugs": {
     "url": "https://github.com/f000/ca-culture/issues"
