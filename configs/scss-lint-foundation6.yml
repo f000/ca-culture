@@ -1,4 +1,4 @@
-# Reference: https://github.com/brigade/scss-lint/blob/master/lib/scss_lint/linter/README.md#emptylinebetweenblocks
+# Reference: https://github.com/brigade/scss-lint/blob/master/lib/scss_lint/linter/README.md
 
 scss_files: "scss/**/*.scss"
 
